@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Proezas": "text",
+    "Extra": "multitext",
+    "Data": "date",
+    "Estado": "multitext",
+    "Qualidade": "multitext",
+    "Legendas": "multitext",
+    "Ano": "number",
+    "Comentários": "multitext",
+    "Plataformas": "multitext",
+    "Capítulo Lido": "number"
+  }
+}
