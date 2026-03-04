@@ -1,0 +1,29 @@
+{
+  "enabledCssSnippets": [
+    "obsidian-align-left-linelength",
+    "obsidian-code-block-scroll-preview",
+    "obsidian-code-block-scroll-preview-and-editor",
+    "obsidian-table-column-disable-wrap",
+    "Callout styling - Wikipedia Like Infobox",
+    "Callout Styling - Folder Structure Callout",
+    "Sidenote Callout 01",
+    "Callout Styling - Timeline Callout",
+    "Callout styling - Celtic Callout Border",
+    "Callout styling - Label Callout",
+    "Callout Styling - Celtic Callout Border",
+    "Callout Styling - Label Callout",
+    "Callout Styling - Tabbed Callout",
+    "Callout Styling - Theorem Callout",
+    "Checkboxes - Progress Bar Checkboxes",
+    "File Explorer Styling - Rainbow Folder Titles",
+    "Image Description When Hover",
+    "Table Styles",
+    "Table Styles - Nutrition Facts",
+    "Table Styles - Dark",
+    "Sticky Notes",
+    "Table Styles - Nutrition Facts - Dark",
+    "Callout Styling - Wikipedia Like Infobox - Modified"
+  ],
+  "theme": "system",
+  "nativeMenus": false
+}
