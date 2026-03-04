@@ -1,0 +1,1 @@
+![[obsidian-css-snippet-hoverexample.jpg|Lorem, ipsum dolor sit amet consectetur, adipisicing elit.]]

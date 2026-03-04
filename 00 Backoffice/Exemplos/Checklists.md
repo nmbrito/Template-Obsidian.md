@@ -1,0 +1,31 @@
+
+- [0] zero `0`
+- [1] one `1`
+- [2] two `2`
+- [3] three `3`
+- [4] four `4`
+- [5] five `5`
+</br>
+- [ ] To-Do
+- [X] Done
+- [/] Incomplete
+- ["] Quote
+- [?] Question
+- [!] Important
+- [*] Star
+- [-] Canceled
+- [<] Scheduling
+- [>] Forwarded
+- [I] Idea
+- [b] Bookmark
+- [c] Cons
+- [p] Pros
+- [f] Fire
+- [k] Key
+- [l] Location
+- [u] Up
+- [d] Down
+- [w] Win
+- [S] Savings
+- [i] Information
+
