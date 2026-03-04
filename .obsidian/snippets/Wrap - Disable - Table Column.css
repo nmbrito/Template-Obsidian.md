@@ -1,0 +1,28 @@
+/* Table disable specific column line wrap 									*/
+/* https://theodorelindsey.io/blog/2025/02/18/Obsidian-css-table-tip.html 	*/
+/* Usage: */
+/* cssclass: table-c1-nowrap */
+/* cssclass: table-c1-nowrap table-c2-nowrap */
+/* ... */
+
+.table-c1-nowrap table tr > td:nth-child(1) {
+  white-space: nowrap;
+}
+.table-c2-nowrap table tr > td:nth-child(2) {
+  white-space: nowrap;
+}
+.table-c3-nowrap table tr > td:nth-child(3) {
+  white-space: nowrap;
+}
+.table-c4-nowrap table tr > td:nth-child(4) {
+  white-space: nowrap;
+}
+.table-c5-nowrap table tr > td:nth-child(5) {
+  white-space: nowrap;
+}
+.table-c6-nowrap table tr > td:nth-child(6) {
+  white-space: nowrap;
+}
+.table-c7-nowrap table tr > td:nth-child(7) {
+  white-space: nowrap;
+}

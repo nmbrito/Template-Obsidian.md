@@ -1,0 +1,6 @@
+/* same article on [dev.to](https://dev.to/somidad/stop-obsidian-wrapping-code-and-enable-scrolling-47oo) */
+/* it only works on Reading view */
+/* https://forum.obsidian.md/t/horizontal-scrolling-in-the-code-block/55789/2 */
+.markdown-rendered code {
+  white-space: pre;
+}
